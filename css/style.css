@@ -34,3 +34,6 @@ background: blue;
     background: gray;
     color: aliceblue;
 }
+.btn-gris:hover{
+    background: gray;
+}
